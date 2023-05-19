@@ -1,2 +1,4 @@
 pandas
-numpy
+numpygit
+matplotlib
+seaburn
